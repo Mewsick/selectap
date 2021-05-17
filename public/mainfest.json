@@ -1,0 +1,8 @@
+{
+    "name": "selectap",
+    "short_name": "selectap",
+    "display": "standalone",
+    "start_url": ".",
+    "theme_color": "red",
+    "background_color": "grey"
+}
