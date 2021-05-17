@@ -33,6 +33,6 @@ if (process.env.NODE_ENV === "production") {
   });
 }
 
-if(navigator.serviceWorker) {
-  navigator.serviceWorker.register('registerServiceWorker.js')
-}
+// if(navigator.serviceWorker) {
+//   navigator.serviceWorker.register('registerServiceWorker.js')
+// }
